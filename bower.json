@@ -1,0 +1,9 @@
+{
+  "name": "frontend-template",
+  "version": "0.0.1",
+  "description": "Template para webapps",
+  "dependencies": {
+    "bootstrap": "=3.3.4",
+    "angular": "~1.4.2"
+  }
+}
