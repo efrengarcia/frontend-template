@@ -25,4 +25,4 @@ $bower install
 $gulp
 ```
 
-Una vez ejecutado el comando el proyecto se desplegará en [esta dirección](localhost:8000).
+Una vez ejecutado el comando el proyecto se desplegará en [esta dirección](https://localhost:8000).
